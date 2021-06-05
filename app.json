@@ -1,0 +1,63 @@
+{
+  "name": "𝐷3𝑉𝐼𝐿 𝑀𝑈𝑆𝐼𝐶 𝐵𝑂𝑇",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls. MADE BY @D3_krish",
+  "keywords": ["music", "voicechat", "telegram"],
+  "repository": "https://github.com/D3KRISH/D3VILMUSIC-BOT",
+  "logo": "https://telegra.ph/file/608bc4d077145abc527be.jpg",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "Pyrogram session string",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A bot token from @BotFather",
+      "required": true
+    },
+    "BOT_USERNAME": {
+      "description": "Your bot's username without @",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Your MusicPlayer Bot Name.",
+      "required": false,
+      "value": "🎶ɖ3ⱱᶖȴ ꬺᶙȿᶖɕ ɓꝍȶ🎶"
+    },
+    "PROJECT_NAME": {
+      "description": "Your MusicPlayer project Name.",
+      "required": false,
+      "value": "D3vilmusic"
+    },
+    "ASSISTANT_NAME": {
+      "description": "Your MusicPlayer's assistant Username without @.",
+      "required": true
+    },
+    "ARQ_API_KEY": {
+      "description": "Get from @ARQRobot.",
+      "required": false,
+      "value": "QTWOCB-BHVPDA-SMNKJV-XGWLQF-ARQ"
+    },    
+    "BG_IMAGE": {
+      "description": "BG image of bot (Use transparent one) [IGNORE].",
+      "required": false,
+      "value": " https://telegra.ph/file/608bc4d077145abc527be.jpg"
+    },    
+    "API_ID": {
+      "description": "App ID from https://my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "App hash from https://my.telegram.org",
+      "required": true
+    },
+    "SUDO_USERS": {
+      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "required": true
+    },
+    "DURATION_LIMIT": {
+      "description": "Max audio duration limit for downloads (minutes).",
+      "required": true,
+      "value": "10"
+    }
+  }
+}
