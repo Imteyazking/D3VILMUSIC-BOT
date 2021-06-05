@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Pyrogram session string https://replit.com/@D3krish/D3VILMusicPyrogramBot#main.py",
       "required": true
     },
     "BOT_TOKEN": {
