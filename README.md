@@ -1,6 +1,6 @@
 <h1 align="centre">🎶 ɖ3ⱱᶖȴ ꬺᶙȿᶖɕɓꝍȶ  🎶</h1>
 
-[![D3VILMUSICBOT LOGO](https://telegra.ph/file/e441ee749e930d4f99a6d.jpg)](https://t.me/D3VIL_SUPPORT)
+[![D3VILMUSICBOT LOGO](https://telegra.ph/file/608bc4d077145abc527be.jpg)](https://t.me/D3VIL_SUPPORT)
 
 ## Requirements 📝
 
