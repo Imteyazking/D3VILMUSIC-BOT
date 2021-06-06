@@ -34,5 +34,5 @@ Get STRING_NAME from here:
 
 - [KRISH](https://github.com/D3KRISH): main developer
 - [D3VIL SUPPORT](https://t.me/D3VIL_BOT_SUPPORT): TEAM D3VIL
-
-</details>
+<\details>
+@Imteyaz
